@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(23, 212, 212);
+    background-image: url(./tempt/download.....png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+.name {
+    font-size: 20;
+}
+#hi {
+    font-size: 50;
+}
